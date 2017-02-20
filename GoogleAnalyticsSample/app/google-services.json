@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "611963693527",
+    "project_id": "project-2848295388061514355"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611963693527:android:59c19a7f26442c2a",
+        "android_client_info": {
+          "package_name": "com.example.amit_saxena.googleanalyticssample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQ7MbW721QY7P55jqNp0og9RGr57CDC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-91845445-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
